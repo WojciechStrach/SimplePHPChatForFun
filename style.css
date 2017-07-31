@@ -1,0 +1,96 @@
+.header{
+    min-height: 300px;
+    font-size: 5em;
+}
+
+.row-headline{
+    font-size: 2em;
+}
+
+#message-form{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #fafafa;
+}
+
+#messages-window{
+     
+     
+}
+
+#send{
+    padding-top: 20px;
+}
+
+#logout-div{
+    padding-top: 20px;
+}
+
+.chip{
+    color: black;
+}
+
+#head-panel{
+    min-height: 100px;
+}
+
+#ses-nick{
+    padding-top: 30px;
+    word-wrap: break-word; 
+}
+
+.color{
+    color:teal;
+    font-weight: bold;
+}
+
+.panel-heading{
+    background-color: #00695c;
+    color:white;
+    font-weight: bold;
+    font-size: 1,5em;
+}
+
+.well{
+    color: teal;
+    font-size: 1,5em;
+    font-weight: bold;
+}
+
+#active-users{
+    word-wrap: break-word;
+}
+
+#users{
+    color: teal;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+#messagess{     
+   word-wrap: break-word;
+   padding-left:5%;
+   padding-bottom: 2%;
+}
+
+#author{
+    color: teal;
+    font-size: 20px;
+    font-weight: bold; 
+}
+
+#message{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+footer{
+    height: 300px;
+}
